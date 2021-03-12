@@ -6,3 +6,4 @@ console.log("Tambah baris kedua");
 console.log("Tambah baris kedua");
 console.log('Baris keempat');
 console.log ("Baris keempat dari online repo");
+console.log ('Baris kelima');
